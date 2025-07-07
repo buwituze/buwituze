@@ -1,9 +1,10 @@
 ## 👩🏽‍💻 Benitha Uwituze, Software Engineer
 
 Hi hi 👋 I’m Benitha  
+
 📍 Based in Rwanda  
 
-I’m a final-year Software Engineering student who loves impactful technology. I'm passionate about Machine Learning, mobile apps, and creating tools that make life easier — especially in healthcare and finance.
+I’m a final-year Software Engineering student wand I love , **love**, impactful tech solutions. I'm passionate about Machine Learning, mobile apps, and creating tools that make life easier, especially in healthcare and finance.
 
 ---
 
