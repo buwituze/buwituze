@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hi+hi+👋..; I'm+Benitha; Welcome+to..;..my+Github.." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hi+hi+👋..;I'm+Benitha; Welcome+to..;..my+Github.." alt="Typing SVG"/>
 </div>
 
 📍 Based in Rwanda  
 
 I’m a final-year Software Engineering student and I love , **love**, impactful tech solutions. I'm passionate about (almost) everything Tech and creating tools that make life easier, especially in the healthcare field.
 
-- Currently, I'm building an HR-FinTech platform, **SokoFund**, and an ML model to promote healthcare access in underserved Rwandan communities.
+- Currently, I'm building an HR-FinTech platform, [SokoFund](https://www.sokofund.com/), and an ML model to promote healthcare access in underserved Rwandan communities.
 - Learning: **AWS**, **Database Management**, and **ML tools & Concepts**.
 
 #### Find me at:
