@@ -32,8 +32,8 @@ I’m a final-year Software Engineering student and I love , **love**, impactful
 
 ### Cloud Technologies
 
-![Docker](https://img.shields.io/badge/Docker-F05032?style=flat&logo=docker&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-F05032?style=flat&logo=salesforce&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-02569B?style=flat&logo=docker&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-4169E1?style=flat&logo=salesforce&logoColor=white)
 
 ---
 
