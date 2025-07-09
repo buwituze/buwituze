@@ -1,13 +1,13 @@
-<div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hi+hi+👋..;+I'm+Benitha;This+is..;..my+Github.." alt="Typing SVG"/>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hi+hi+👋..; I'm+Benitha; Welcome to..;..my+Github.." alt="Typing SVG"/>
 </div>
 
 📍 Based in Rwanda  
 
-I’m a final-year Software Engineering student wand I love , **love**, impactful tech solutions. I'm passionate about Machine Learning, mobile apps, and creating tools that make life easier, especially in healthcare and finance.
+I’m a final-year Software Engineering student and I love , **love**, impactful tech solutions. I'm passionate about (almost) everything Tech and creating tools that make life easier, especially in the healthcare field.
 
-- I'm building an HR-FinTech platform, **SokoFund**, and an ML model to promote healthcare access in underserved Rwandan communities.
-- Actively learning: **Flutter**, **TypeScript**, **Python**, **Database Management**, **Docker**, and **ML** tools.
+- Currently, I'm building an HR-FinTech platform, **SokoFund**, and an ML model to promote healthcare access in underserved Rwandan communities.
+- Learning: **AWS**, **Database Management**, and **ML tools & Concepts**.
 
 #### Find me at:
 
@@ -29,7 +29,11 @@ I’m a final-year Software Engineering student wand I love , **love**, impactfu
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-F05032?style=flat&logo=git&logoColor=white)
+
+### Cloud Technologies
+
+![Docker](https://img.shields.io/badge/Docker-F05032?style=flat&logo=docker&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-F05032?style=flat&logo=salesforce&logoColor=white)
 
 ---
 
@@ -37,23 +41,25 @@ I’m a final-year Software Engineering student wand I love , **love**, impactfu
 
 ![Benitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=buwituze&show_icons=true&theme=radical)
 
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=buwituze&theme=github_dark" alt="buwituze's GitHub Stats"/>
-</div>
 ---
 
 ### Featured Projects
 
 #### 🔗 [SokoFund](https://www.sokofund.com/)
-An HR-FinTech Platform for African businesses and workforces, offering HR & Payroll Management Software plus Embedded Finance Products.
+An HR-FinTech Platform that offers HR & Payroll Management Software and Embedded Finance Products.
 
 #### 🎨 [MondeVert Site](https://github.com/buwituze/MondeVertSite)
 A creative environmental initiative built with Next.js. MondeVert uses art, culture, and technology to inspire communities to embrace sustainable living.
 
 #### 🌍 [Mfasha](https://github.com/Ajang-Deng98/mfasha_app_group6)  
-A Flutter mobile app providing emergency preparedness tools and health literacy resources to Rwandans in Kinyarwanda.
+A Flutter mobile app providing emergency preparedness knowledge and health literacy (using Gemini) to Rwandans.
 
 #### 🏥 [HealthSpot](https://github.com/buwituze/HealthSpot_Model)  
-An ML model leveraging satellite imagery to identify underserved rural areas in Rwanda and suggest optimal locations for health facilities.
+An ML model that uses satellite imagery to identify areas in Rwanda with little access to health facilities and suggest optimal locations for building health facilities.
 
 ---
+
+### Find me at:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benitha-uwituze/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-111?style=flat&logo=vercel&logoColor=white)](https://benithauwituze.netlify.app/)
