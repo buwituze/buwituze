@@ -12,7 +12,7 @@ I’m a final-year Software Engineering student and I love , **love**, impactful
 #### Find me at:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benitha-uwituze/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-111?style=flat&logo=vercel&logoColor=white)](https://benithauwituze.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-111?style=flat&logo=vercel&logoColor=white)](https://benithauwituze.vercel.app/)
 
 ---
 
@@ -62,4 +62,4 @@ An ML model that uses satellite imagery to identify areas in Rwanda with little 
 ### Find me at:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benitha-uwituze/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-111?style=flat&logo=vercel&logoColor=white)](https://benithauwituze.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-111?style=flat&logo=vercel&logoColor=white)](https://benithauwituze.vercel.app/)
