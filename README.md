@@ -13,6 +13,7 @@ I’m a final-year Software Engineering student and I love , **love**, impactful
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benitha-uwituze/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-111?style=flat&logo=vercel&logoColor=white)](https://benithauwituze.vercel.app/)
+[![Medium](https://img.shields.io/badge/-Medium-111?style=flat&logo=vercel&logoColor=white)](https://medium.com/@benithatuze15)
 
 ---
 
