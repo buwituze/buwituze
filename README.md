@@ -6,7 +6,7 @@
 
 I’m a final-year Software Engineering student and I love , **love**, impactful tech solutions. I'm passionate about (almost) everything Tech and creating tools that make life easier, especially in the healthcare field.
 
-- Currently, I'm building an HR-FinTech platform, [SokoFund](https://www.sokofund.com/), and an ML model to promote healthcare access in underserved Rwandan communities.
+- Currently, I'm building a HealthTech pre-consultation agent, [Eleza](https://github.com/buwituze/Eleza-agent), to help patients reach doctors faster. I am also working on a modern e-library platform.
 - Learning: **AWS**, **Database Management**, and **ML tools & Concepts**.
 
 #### Find me at:
@@ -14,6 +14,7 @@ I’m a final-year Software Engineering student and I love , **love**, impactful
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benitha-uwituze/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-111?style=flat&logo=vercel&logoColor=white)](https://benithauwituze.vercel.app/)
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@benithatuze15)
+[![Hacker News](https://img.shields.io/badge/-HackerNews-0A66C2?style=flat&logo=hackernews&logoColor=orange)](https://news.ycombinator.com/benithatuze15)
 
 ---
 
@@ -46,6 +47,9 @@ I’m a final-year Software Engineering student and I love , **love**, impactful
 
 ### Featured Projects
 
+#### 🏥 [Eleza](https://github.com/buwituze/Eleza-agent)
+A HealthTech agent that is a faster way to talk to our doctors.
+
 #### 🔗 [SokoFund](https://www.sokofund.com/)
 An HR-FinTech Platform that offers HR & Payroll Management Software and Embedded Finance Products.
 
@@ -65,3 +69,4 @@ An ML model that uses satellite imagery to identify areas in Rwanda with little 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benitha-uwituze/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-111?style=flat&logo=vercel&logoColor=white)](https://benithauwituze.vercel.app/)
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@benithatuze15)
+[![Hacker News](https://img.shields.io/badge/-HackerNews-0A66C2?style=flat&logo=hackernews&logoColor=orange)](https://news.ycombinator.com/benithatuze15)
