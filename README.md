@@ -14,7 +14,7 @@ I’m a final-year Software Engineering student and I love , **love**, impactful
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benitha-uwituze/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-111?style=flat&logo=vercel&logoColor=white)](https://benithauwituze.vercel.app/)
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@benithatuze15)
-[![Hacker News](https://img.shields.io/badge/-HackerNews-0A66C2?style=flat&logo=hackernews&logoColor=orange)](https://news.ycombinator.com/benithatuze15)
+[![Hacker News](https://img.shields.io/badge/Hacker_News-FF6600?style=for-the-badge&logo=ycombinator&logoColor=white)](https://news.ycombinator.com/user?id=benithatuze15)
 
 ---
 
@@ -69,4 +69,4 @@ An ML model that uses satellite imagery to identify areas in Rwanda with little 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benitha-uwituze/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-111?style=flat&logo=vercel&logoColor=white)](https://benithauwituze.vercel.app/)
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@benithatuze15)
-[![Hacker News](https://img.shields.io/badge/-HackerNews-0A66C2?style=flat&logo=hackernews&logoColor=orange)](https://news.ycombinator.com/benithatuze15)
+[![Hacker News](https://img.shields.io/badge/Hacker_News-FF6600?style=for-the-badge&logo=ycombinator&logoColor=white)](https://news.ycombinator.com/user?id=benithatuze15)
